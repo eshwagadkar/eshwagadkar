@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @eshwagadkar
-- 👀 I’m interested in frontend development and frontend related technologies such as React Library and Next.JS framework. 
+- 👀 I’m interested in frontend development and frontend related technologies such as React Library. 
 - 🌱 Currently learning advance javaScript concepts.
 - 💞️ Looking to collaborate on real time frontend projects
 - 📫 You can reach me using this email address - eshwagadkar007@gmail.com 
