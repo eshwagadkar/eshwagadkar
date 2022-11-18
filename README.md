@@ -1,8 +1,8 @@
 - 👋 Hi there, I’m @eshwagadkar
-- 👀 I’m interested in frontend development and frontend related technologies such as React Library. 
+- 👀 Interested in frontend development & related technologies such as React Library. 
 - 🌱 Currently learning advance javaScript concepts.
-- 💞️ Looking to collaborate on real time frontend projects
-- 📫 You can reach me using this email address - eshwagadkar007@gmail.com 
+- 💞️ Love to collaborate on real time frontend projects.
+- 📫 You can reach me @ - eshwagadkar007@gmail.com 
 
 <!---
 eshwagadkar/eshwagadkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
