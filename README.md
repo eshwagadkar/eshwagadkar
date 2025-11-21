@@ -13,11 +13,13 @@ You can click the Preview link to take a look at your changes.
 📬 Reach me at: **eshwagadkar007@gmail.com**
 
 
-<!-- Stats for last year -->
-![GitHub Stats Last Year](https://github-readme-stats.vercel.app/api?username=eshwagadkar&show_icons=true&theme=tokyonight&commits_year=2024)
+## 📆 GitHub Activity Snapshot (2024 → 2025)
 
-<!-- Stats for this year -->
-![GitHub Stats This Year](https://github-readme-stats.vercel.app/api?username=eshwagadkar&show_icons=true&theme=tokyonight&commits_year=2025)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eshwagadkar&show_icons=true&theme=tokyonight&commits_year=2024" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eshwagadkar&show_icons=true&theme=tokyonight&commits_year=2025" height="165" />
+</p>
+
 
 ### ⚙️ Tech Stack
 <p>
