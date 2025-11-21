@@ -1,3 +1,8 @@
+<!---
+eshwagadkar/eshwagadkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 ## 👋 Hey there! I'm **Eshwa Gadkar**
 
 🌟 Frontend Engineer passionate about creating clean, modern, and performant user experiences.  
@@ -7,11 +12,12 @@
 🔗 Check out my portfolio: **https://eshwa-gadkar-portfolio-website.netlify.app/**  
 📬 Reach me at: **eshwagadkar007@gmail.com**
 
-<!---
-eshwagadkar/eshwagadkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshwagadkar&show_icons=true&theme=tokyonight)
+
+<!-- Stats for last year -->
+![GitHub Stats Last Year](https://github-readme-stats.vercel.app/api?username=eshwagadkar&show_icons=true&theme=tokyonight&commits_year=2024)
+
+<!-- Stats for this year -->
+![GitHub Stats This Year](https://github-readme-stats.vercel.app/api?username=eshwagadkar&show_icons=true&theme=tokyonight&commits_year=2025)
 
 ### ⚙️ Tech Stack
 <p>
