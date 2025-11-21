@@ -9,6 +9,7 @@ eshwagadkar/eshwagadkar is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshwagadkar&show_icons=true&theme=tokyonight)
+![GitHub Snake](https://github.com/eshwagadkar/eshwagadkar/blob/output/github-contribution-grid-snake.svg)
 
 ### ⚙️ Tech Stack
 <p>
