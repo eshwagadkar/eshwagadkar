@@ -1,5 +1,3 @@
-
-<code>
 ## 👋 Hey there! I'm **Eshwa Gadkar**
 
 🌟 Frontend Engineer passionate about creating clean, modern, and performant user experiences.  
@@ -8,7 +6,6 @@
 🤝 Always excited to collaborate on **real-world frontend projects**.  
 🔗 Check out my portfolio: **https://eshwa-gadkar-portfolio-website.netlify.app/**  
 📬 Reach me at: **eshwagadkar007@gmail.com**
-</code>
 
 <!---
 eshwagadkar/eshwagadkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
