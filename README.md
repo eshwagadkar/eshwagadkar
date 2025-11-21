@@ -1,15 +1,14 @@
+
 <code>
-👋 Hey there! I'm Eshwa Gadkar
+## 👋 Hey there! I'm **Eshwa Gadkar**
 
-🌟 Frontend Developer passionate about creating clean, modern, and performant user experiences.
-💻 I love exploring and working with React, Next.js, and modern frontend ecosystems.
-📚 Currently diving deeper into advanced JavaScript concepts and cutting-edge UI patterns.
-🤝 Always excited to collaborate on real-world frontend projects and open-source contributions.
-🔗 Check out my portfolio: https://eshwa.tech
-📬 Reach me at: eshwagadkar007@gmail.com
+🌟 Frontend Engineer passionate about creating clean, modern, and performant user experiences.  
+💻 I love exploring and working with **React**, **Next.js**, and modern frontend ecosystems.  
+📚 Currently diving deeper into **advanced JavaScript concepts** and cutting-edge UI patterns.  
+🤝 Always excited to collaborate on **real-world frontend projects**.  
+🔗 Check out my portfolio: **https://eshwa-gadkar-portfolio-website.netlify.app/**  
+📬 Reach me at: **eshwagadkar007@gmail.com**
 </code>
-
-
 
 <!---
 eshwagadkar/eshwagadkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
