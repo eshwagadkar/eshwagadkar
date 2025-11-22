@@ -14,12 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 📆 GitHub Activity Snapshot (2024 → 2025)
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=eshwagadkar&show_icons=true&theme=tokyonight&commits_year=2024" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=eshwagadkar&show_icons=true&theme=tokyonight&commits_year=2025" height="165" />
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=eshwagadkar&show_icons=true&theme=tokyonight" height="165" />
 
 ### ⚙️ Tech Stack
 <p>
