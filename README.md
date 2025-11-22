@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 📬 Reach me at: **eshwagadkar007@gmail.com**
 
 
-## 📆 GitHub Activity Snapshot (2024 → 2025)
-<img src="https://github-readme-stats.vercel.app/api?username=eshwagadkar&show_icons=true&theme=tokyonight" height="165" />
+<!-- ## 📆 GitHub Activity Snapshot (2024 → 2025) -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=eshwagadkar&show_icons=true&theme=tokyonight" height="165" /> -->
 
 ### ⚙️ Tech Stack
 <p>
